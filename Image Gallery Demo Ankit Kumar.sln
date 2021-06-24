@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Gallery Demo Ankit Kumar", "Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar.csproj", "{01922C73-7150-40D6-AE72-6B212CF881C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGalleryUnitTest", "ImageGalleryUnitTest\ImageGalleryUnitTest.csproj", "{9AB97809-2498-4134-9FED-00B5F0D538E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01922C73-7150-40D6-AE72-6B212CF881C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01922C73-7150-40D6-AE72-6B212CF881C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01922C73-7150-40D6-AE72-6B212CF881C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01922C73-7150-40D6-AE72-6B212CF881C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB97809-2498-4134-9FED-00B5F0D538E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB97809-2498-4134-9FED-00B5F0D538E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB97809-2498-4134-9FED-00B5F0D538E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB97809-2498-4134-9FED-00B5F0D538E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10614374-4A98-46B5-98B0-C253497E82A2}
+	EndGlobalSection
+EndGlobal

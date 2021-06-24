@@ -1,0 +1,27 @@
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\ImageGalleryUnitTest.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\ImageGalleryUnitTest.pdb
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Image Gallery Demo Ankit Kumar.exe
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Image Gallery Demo Ankit Kumar.pdb
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Image Gallery Demo Ankit Kumar.exe.config
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\obj\Debug\ImageGalleryUnitTest.csproj.AssemblyReference.cache
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\obj\Debug\ImageGalleryUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\obj\Debug\ImageGalleryUnitTest.csproj.CopyComplete
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\obj\Debug\ImageGalleryUnitTest.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\ImageGalleryUnitTest\obj\Debug\ImageGalleryUnitTest.pdb

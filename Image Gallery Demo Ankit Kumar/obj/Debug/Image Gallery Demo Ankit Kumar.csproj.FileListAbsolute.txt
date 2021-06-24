@@ -1,0 +1,23 @@
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.csproj.AssemblyReference.cache
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image_Gallery_Demo_Ankit_Kumar.ImageGallery.resources
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image_Gallery_Demo_Ankit_Kumar.Properties.Resources.resources
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.csproj.GenerateResource.cache
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.csproj.CoreCompileInputs.cache
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\Image Gallery Demo Ankit Kumar.exe.config
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\Image Gallery Demo Ankit Kumar.exe
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\Image Gallery Demo Ankit Kumar.pdb
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.C1DX.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.csproj.CopyComplete
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.exe
+C:\Users\akspj\source\repos\Image Gallery Demo Ankit Kumar\Image Gallery Demo Ankit Kumar\obj\Debug\Image Gallery Demo Ankit Kumar.pdb
